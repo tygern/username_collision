@@ -1,0 +1,4 @@
+SMITH          3.100
+JOHNSON        2.810
+WILLIAMS       1.699
+WILLIAMSON     4.334
